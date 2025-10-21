@@ -1,0 +1,10 @@
+[
+    {"code": "1", "name": "Verarbeitende Industrie"},
+    {"code": "2", "name": "Logistik und Transport"},
+    {"code": "3", "name": "Energie und Versorgung"},
+    {"code": "4", "name": "Gesundheitswesen"},
+    {"code": "5", "name": "Technologie, IT und Telekommunikation"},
+    {"code": "6", "name": "Einzelhandel"},
+    {"code": "7", "name": "Großhandel"},
+    {"code": "8", "name": "Finanzdienstleistungen"}
+  ]

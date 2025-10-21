@@ -1,0 +1,790 @@
+[
+{
+  "unternehmen": "DS Holding",
+  "branche": ["6","7"],
+  "typ": "IBR",
+  "jahr": 2023,
+  "details": {
+    "haupt- und unterstützungsprozesse": [
+    {
+      "abteilung": "Produktmanagement",
+      "signale_pro": [
+        "Entwicklungsgeschwindigkeit durch eigene Produktentwicklung",
+        "Anbindung 'Die Höhle der Löwen'",
+        "Scouting nach Trendprodukten durch Auswertung externer Daten"
+      ],
+      "signale_kontra": [
+        "Zu enger Fokus auf eigene Ressourcen und DHdL",
+        "Nicht ausreichend prominent organisatorisch etabliert"
+      ],
+      "handlungsempfehlungen": [
+        "Etablierung 'Produkt'-Kompetenz (Entwicklung und Management) als Marketing-Funktion",
+        "Weiterer Ausbau der Nutzung externer Ideengeber / Quellen durch neue Formate mit Medien"
+      ]
+    },
+    {
+      "abteilung": "Beschaffung",
+      "signale_pro": [
+        "Gutes, langjähriges Verhältnis zu Hauptlieferanten in China",
+        "Qualitätsmanagement vor Ort"
+      ],
+      "signale_kontra": [
+        "Reine Dienstleisterfunktion ohne Bestandsverantwortung",
+        "Eingeschränkte systembasierte Steuerung des S&OP-Prozesses"
+      ],
+      "handlungsempfehlungen": [
+        "Stärkung Produktmanagement (als eigenständigen Funktionsbereich)",
+        "Organisatorische Integration mit Lager, Intra-Logistik und Outbound-Logistik"
+      ]
+    },
+    {
+      "abteilung": "Vertrieb",
+      "signale_pro": [
+        "Verkauf an den stationären Handel",
+        "Nachfrage-Generierung über Themen- und Produktwelten, die im Falle Netto auch selber gesteuert werden",
+        "Stetiges Wachstum im Online-Geschäft"
+      ],
+      "signale_kontra": [
+        "Methodik Vertriebsplanung",
+        "Nachhaltigkeit Steuerung",
+        "D2C-Geschäft auch nach TSC-Übernahme stark ausbaufähig"
+      ],
+      "handlungsempfehlungen": [
+        "Ausbau Vertrieb und Distribution über Endkundenmärkte (D2C)",
+        "Erwerb und Nutzung von Kundendaten zwecks (KI-basierter) Generierung von Leads und Cross-Selling-Opportunitäten"
+      ]
+    },
+    {
+      "abteilung": "Logistik",
+      "signale_pro": [
+        "Zweiter Hauptlagerstandort in Polen mit niedrigen Betriebskosten",
+        "Retouren-Bearbeitung und Aufbereitung als A-Ware",
+        "Same Day Delivery (z. B. für Amazon Prime)"
+      ],
+      "signale_kontra": [
+        "Keine ausreichende Transparenz über Einzelkosten (z. B. Handlings)",
+        "Keine Systemunterstützung für standortübergreifende Steuerung"
+      ],
+      "handlungsempfehlungen": [
+        "Stärkere organisatorische Integration der Logistik mit anderen SCM-Funktionen (insbes. Einkauf)",
+        "Verbesserung der IT-basierten Transparenz und Entscheidungsunterstützung"
+      ]
+    },
+    {
+      "abteilung": "IT",
+      "signale_pro": [
+        "Ablösung der alten IT-Landschaft"
+      ],
+      "signale_kontra": [
+        "Fehlende Akzeptanz der Fachabteilungen und Verständnis für eine IT-Umstellung",
+        "Implementierung MS/BC unvollständig und problembehaftet",
+        "IT-Team hat nach wie vor Optimierungsleistung der Fachabteilungen abzuarbeiten"
+      ],
+      "handlungsempfehlungen": [
+        "Harmonisierung offener Geschäfts- und IT-Anforderungen",
+        "‘IT-Sprint’ mit externer Unterstützung und Change-Management",
+        "Ausbau Richtlinien-Kompetenz der IT-Leitung",
+        "Standort Stettin auf gleiches WMS umstellen wie Gallin"
+      ]
+    },
+    {
+      "abteilung": "Finanzen",
+      "signale_pro": [
+        "Hohe fachliche Kompetenz",
+        "Hohe Detailtiefe für Finanzdaten vorhanden"
+      ],
+      "signale_kontra": [
+        "Planungsprozesse strukturell und inhaltlich auf zu hoher Flughöhe",
+        "Hohe Ressourcenbindung durch IFRS- und HGB-Berichterstattung",
+        "Organisatorische Differenzierung nicht durchgängig nachvollziehbar"
+      ],
+      "handlungsempfehlungen": [
+        "Anpassung der Ressourcen und Aufbauorganisation nach Wegfall der IFRS-Berichterstattung notwendig",
+        "Aufarbeitung des Buchungsrückstandes durch IT-Umstellung erforderlich"
+      ]
+    },
+    {
+      "abteilung": "HR",
+      "signale_pro": [
+        "Zeitgemäßes HR-Managementtool in Verwendung (Personio)",
+        "Restrukturierungserfahrung",
+        "Anwendungs- / Nutzungsgrad MbO-basierter Führungsprozesse",
+        "Verzahnung HR- und Stellenplanung (hohe Personalaufwandsquote)"
+      ],
+      "signale_kontra": [
+        "Geringer Anteil befristeter Mitarbeiter"
+      ],
+      "handlungsempfehlungen": [
+        "Prozesse zur Anpassung der Personalstärke im Zuge des geplanten Konzernumbaus und der Fokussierung auf das D2C-Geschäft unterstützen",
+        "Überprüfung der Flexibilisierung der Personal-Ressourcen durch Einsatz von Fremdarbeit"
+      ]
+    },
+    {
+      "abteilung": "Marketing",
+      "signale_pro": [
+        "Hohe Akzeptanz bei relevanten Medien (u. a. Pro7, RTL, QVC)",
+        "Zugpferd Ralf Dümmel mit hohem Bekanntheitsgrad",
+        "Co-Marketing / -Branding (Aldi-Grill, Koch Christian Rach als Tester für DS-Produkte)"
+      ],
+      "signale_kontra": [
+        "Stark auf die Person Ralf Dümmel zugeschnitten",
+        "MAXX als Marke ohne großen Bekanntheitsgrad"
+      ],
+      "handlungsempfehlungen": [
+        "Marketing als integrierte Führungsfunktion ausbauen",
+        "Insbesondere Marketingkompetenz für das Online- und D2C-Geschäft stärken"
+      ]
+    }
+    ],
+    "markttrends": [
+      {
+        "trend": "Smart Technology",
+        "beschreibung": [
+          "Ermöglicht eine effizientere Lagerverwaltung, Inventurkontrolle und Bestandsverwaltung, was zu Kosteneinsparungen und einer besseren Ressourcennutzung führt.",
+          "Händler können personalisierte Angebote und Einkaufserlebnisse schaffen, die die Kundenzufriedenheit steigern und die Kundenbindung fördern.",
+          "Ermöglicht eine umfassende Datenerfassung, -analyse und -verarbeitung, um fundierte Geschäftsentscheidungen zu treffen."
+        ],
+        "positive_effekte": [
+          "Effiziente Lagerhaltung, Langfr. Kosteneinsparung",
+          "Innovationspotenzial durch z. B. personalisierte Angebote",
+          "Optimierte strategische Entscheidungsfindung"
+        ],
+        "negative_effekte": [
+          "Kurzfristige Kostensteigerungen durch Anschaffungskosten"
+        ]
+      },
+      {
+        "trend": "Nachhaltigkeit",
+        "beschreibung": [
+          "Zunehmende Nachfrage der Verbraucher nach umweltfreundlichen und ethisch korrekt produzierten Produkten hat den Handel dazu veranlasst, sein Sortiment entsprechend anzupassen",
+          "Unternehmen, die sich für nachhaltige Praktiken engagieren, werden oft positiv von Kunden wahrgenommen.",
+          "Regierungen und Branchenverbände setzen zunehmend strenge Vorschriften und Standards in Bezug auf Nachhaltigkeit durch."
+        ],
+        "positive_effekte": [
+          "Marktchancen durch Differenzierung",
+          "Positives Image durch nachhaltige Praktiken",
+          "Einhaltung gesetzlicher Vorschriften und Vermeidung von Strafen"
+        ],
+        "negative_effekte": [
+          "Höhere Kosten durch das Einhalten von Vorschriften",
+          "Höhere Investitionen für ressourceneffiziente und nachhaltige Herstellungsprozesse sowie Forschung in diesem Bereich"
+        ]
+      },
+      {
+        "trend": "Kunden erwarten Innovationen",
+        "beschreibung": [
+          "Eigenmarken werden von den Händlern immer stärker als eigenständige Marke positioniert und beworben, da diese höhere Margen bieten (Beispiel Lidl mit Parkside).",
+          "Kunden erwarten hohe Innovationstätigkeit und optimales Produktmanagement der Lieferanten, um sich einerseits von ihren Wettbewerbern differenzieren zu können und andererseits die Kundenfrequenz in den Läden zu erhöhen."
+        ],
+        "positive_effekte": [
+          "Steigende Notwendigkeit des Ausbaus der Produktkompetenz und höherer Innovationstätigkeit",
+          "Risikoposition bzgl. Qualität und Liefertermineinhaltung bei den Kunden steigt"
+        ],
+        "negative_effekte": [
+          "Preis- und Konkurrenzdruck erhöht sich",
+          "Beeinträchtigung der Markenpositionierung"
+        ]
+      },
+      {
+        "trend": "Anhaltender Inflationsdruck",
+        "beschreibung": [
+          "Die anhaltende Inflation kann zu steigenden Beschaffungskosten für Rohstoffe, Energie und Arbeitskräfte führen. Dies führt wiederum zu Preiserhöhungen für Waren und Dienstleistungen.",
+          "Inflationsbedingte Preiserhöhungen können das Verbraucherverhalten beeinflussen, indem sie die Kaufkraft der Kunden verringern.",
+          "Inflationsdruck und die damit einhergehende Ungewissheit über künftige Entwicklungen reduzieren das Konsumverhalten der Kunden."
+        ],
+        "positive_effekte": [
+          "Vermehrter Kauf von Produkten in der Sonderaktion / bei Preisreduzierung"
+        ],
+        "negative_effekte": [
+          "Preis- und Konkurrenzdruck erhöht sich",
+          "Zurückhaltung der Konsumenten für größere Ausgaben"
+        ]
+      }
+    ],
+
+    "SWOT": [
+      {
+        "stärken": [
+          "Aktive Flächensteuerung: Aufgrund der Vielzahl an Warengruppen und Artikeln kann DS in einigen LEHs die Artikel und Preislage selbst steuern und sich so von der Konkurrenz abheben.",
+          "Vertriebsnetzwerk: Die DS-Holding setzt auf langjährige Kundenbeziehungen und verfügt stationär und online über ein breit aufgestelltes Vertriebsnetzwerk. Dabei wird stationär eine Marktabdeckung von 80% bis 100% erreicht. Der Online-Vertriebskanal ist stark wachsend.",
+          "Produktbeschaffung: Langjährige Beziehungen zu Hauptlieferanten in China und Qualitätsmanagement vor Ort bilden die Grundlage für die Produktbeschaffung.",
+          "Logistik: Die eigene leistungsfähige Logistik ermöglicht 'Same Day Delivery' und reduziert die Abhängigkeit von externen Partnern."
+        ],
+        "schwächen": [
+          "D2C-Geschäft: Durch den Fokus auf das B2B-Geschäft bleiben Potenziale hinsichtlich des Absatzes auf Endkundenmärkten (MAXXWORLD) ungenutzt.",
+          "Standortvernetzung: Aufgrund der fehlenden organisatorischen Integration der Logistik mit anderen SCM-Funktionen wird die standortsübergreifende Steuerung erschwert.",
+          "IT: Verständnis und Akzeptanz für Umstellung der IT-Systeme stellen die DS Holding vor Herausforderungen. Zusätzlich werden unterschiedliche und nicht vernetzte WMS an den Lagerstandorten genutzt.",
+          "Sortimentsstruktur: Die Diskrepanz zwischen stationärem Aktionswarengeschäft und Dauerlistung online erfordert eine strategische Sortimentspolitik."
+        ],
+        "chancen": [
+          "Smart Technology: Innovative Technologien bieten effizientere Möglichkeiten der Lagerverwaltung, Inventurkontrolle und Bestandsverwaltung. Mengenabnahmen von Kunden können dadurch ggf. besser koordiniert werden.",
+          "Innovationskraft: Das wettbewerbsintensive Marktumfeld fordert von den Unternehmen hohe Innovationskraft und optimales Produktmanagement.",
+          "Lieferantenbeziehungen: Der Fokus des Einzelhandels auf Lieferantenreduzierung führt zu einer Konsolidierung des Marktes, wovon innovations- und kapitalkräftige Unternehmen profitieren."
+        ],
+        "risiken": [
+          "Mengenreduzierung: Aufgrund gesunkener Abverkaufs-Quoten im Non-Food-Bereich reduzieren die Kunden die Mengen pro Filiale.",
+          "Handelseigenmarken: Eigenmarken werden aufgrund höherer Margen vom LEH und Discounter immer stärker positioniert und können zur Auslistung von Händlermarken führen.",
+          "Inflationsdruck: Anhaltend hohe Inflation und Ungewissheit über die zukünftige Entwicklung reduzieren Kaufkraft und Konsumverhalten der Kunden im Non-Food-Bereich."
+        ]
+      }
+    ],
+
+    "krisenstadium": [
+      {
+        "Stakeholderkrise": [],
+        "Strategiekrise": [],
+        "Produkt- und Absatzkrise": [],
+        "Erfolgskrise": [],
+        "Liquiditätskrise": [],
+        "Insolvenzreife": []
+      }
+    ],
+
+    "maßnahmen": [
+      "Personalreduktion",
+      "Fokussierung auf Kernkompetenzen und -geschäft",
+      "Ausbau Online Geschäft",
+      "Ausbau des Marketings",
+      "Zusammenfassung von Einzelfunktionen des Supply Chain Managements",
+      "Lagerbestand reduzieren",
+      "Lagerbestandswert reduzieren/ anpassen"
+    ]
+    }
+},
+
+{
+  "unternehmen": "AKKU SYS",
+  "branche": ["3"],
+  "typ": "IBR",
+  "jahr": 2025,
+  "details": {
+    "haupt- und unterstützungsprozesse": [
+      {
+        "abteilung": "Einkauf",
+        "signale_pro": [
+          "Hohes produktspezifisches Know-how mit Beratungskompetenz",
+          "Eingeleiteter Change-Prozess: Neuer Einkaufsleiter mit ausgeprägtem Kompetenzprofil (seit 06/2025)"
+        ],
+        "signale_kontra": [
+          "Historisch überwiegend als reine Beschaffungsorganisation ausgerichtet",
+          "Ausbaufähiges Verhandlungsmanagement"
+        ],
+        "handlungsempfehlungen": [
+          "Verstärkte Mitarbeiterbefähigung bezüglich Verhandlungsmanagement",
+          "Anpassung der Zahlungsbedingungen mit Lieferanten",
+          "Umsetzung systemischer Unterstützung bei Working-Capital-Management (z. B. Slimstock)",
+          "Konsequenter Abverkauf von nicht bzw. langsam drehenden Waren"
+        ]
+      },
+      {
+        "abteilung": "Montage",
+        "signale_pro": [
+          "Standort modern und ohne Investitionsstau",
+          "Skalierbarkeit der Produktionskapazitäten gegeben"
+        ],
+        "signale_kontra": [
+          "Eingeschränkte Transparenz im Retourenmanagement (derzeit bis auf Personalkosten keine Übersicht)"
+        ],
+        "handlungsempfehlungen": [
+          "Systemische Unterstützung bei Retourenmanagement einführen (Transparenz schaffen)"
+        ]
+      },
+      {
+        "abteilung": "Logistik",
+        "signale_pro": [
+          "Hochregallager mit allen notwendigen Erfordernissen (Rammschutz, Brandschutz etc.)",
+          "Überdurchschnittliches Maß an Sauberkeit und technischer Infrastruktur",
+          "Tracking und sehr hoher Fokus auf Liefertreue zum Kundenerhalt"
+        ],
+        "signale_kontra": [
+          "Geringe Transparenz bezüglich systemischer KPIs (Produktivität, Reklamationsfälle etc.)"
+        ],
+        "handlungsempfehlungen": [
+          "Aufbau eines Kennzahlensystems zur Produktivitäts- und Effizienzsteuerung sowie eines schnelleren Lagerdurchlaufs",
+          "Regelmäßige Preisverhandlungen mit Paket- und Speditionsdienstleistern"
+        ]
+      },
+      {
+        "abteilung": "Vertrieb",
+        "signale_pro": [
+          "Klar konzipierte Marktdurchdringungsstrategie mit proaktiver Bearbeitung potenzialstarker Fokussektoren",
+          "Value-Added Distributor: Positionierung über Beratungs- und Service-Mehrwerte in Abgrenzung zu klassischen B2B-Großhändlern"
+        ],
+        "signale_kontra": [
+          "Verhaltene Marktbearbeitung in den letzten Jahren durch starke Vertriebsaktivitäten aus der als Umsatz- und Ertragsträger geltenden 'Cash Cow' Photovoltaik"
+        ],
+        "handlungsempfehlungen": [
+          "Etablierung eines Project Management Office (PMO) zur Steuerung und Kontrolle des vertrieblichen Turn-Around-Programms",
+          "Bedarfsorientierte Weiterentwicklung und Befähigung der Mitarbeitenden in den Kundenteams durch Schulungen und Coachings"
+        ]
+      },
+      {
+        "abteilung": "Finanzen",
+        "signale_pro": [
+          "Kaufmännischer Leiter mit langjähriger Erfahrung und klarer Vorstellung zur zukünftigen Ausrichtung",
+          "Integrierte Planung auf Jahresbasis vorhanden",
+          "Buchhaltung auf aktuellem Stand"
+        ],
+        "signale_kontra": [
+          "Keine rollierend aktualisierte Liquiditätsplanung vorhanden"
+        ],
+        "handlungsempfehlungen": [
+          "Aufbau adressatengerechter Reportingstrukturen",
+          "Einführung rollierende Liquiditätsplanung",
+          "Einführung integrierte Planung auf Monatsbasis"
+        ]
+      },
+      {
+        "abteilung": "IT/Digitalisierung",
+        "signale_pro": [
+          "Weitgehende Digitalisierung von Geschäftsprozessen",
+          "Management-Support für die Implementierung neuer Technologien",
+          "Verbesserung der Cybersicherheit"
+        ],
+        "signale_kontra": [
+          "Einsatz von KI noch in einem frühen Stadium (bereits implementiert z. B. im Customer Care)"
+        ],
+        "handlungsempfehlungen": [
+          "Versicherungsfähigkeit für Cybersecurity herstellen",
+          "Zentrales, unternehmensweites Wissensmanagement aufsetzen"
+        ]
+      },
+      {
+        "abteilung": "Management",
+        "signale_pro": [
+          "Langjährige Kenntnis des Marktes/Unternehmens und Netzwerk mit Händlern/Wettbewerbern",
+          "Teilweise Notwendigkeit der Veränderung erkannt",
+          "Teilweise Restrukturierungserfahrung vorhanden"
+        ],
+        "signale_kontra": [
+          "verspätete Reaktion auf rückläufige Geschäftsentwicklung",
+          "Mangelnde Transparenz bezüglich Covenant-Einhaltung"
+        ],
+        "handlungsempfehlungen": [
+          "Stärkere Steuerung des Transformationsprogramms inklusive regelmäßigen objektiven Reportings",
+          "Höhere Transparenz in Hinblick auf Covenant-Einhaltung"
+        ]
+      },
+      {
+        "abteilung": "Mitarbeiter",
+        "signale_pro": [
+          "Anfang 2025 überarbeitete Aufbauorganisation",
+          "Signifikanz einer motivierten und kompetenten Belegschaft erkannt"
+        ],
+        "signale_kontra": [
+          "Im Vergleich zum Großhandel hohe Personalaufwandsquote",
+          "Erhöhte Fluktuationsrate",
+          "Digitalisierung der Personalakten noch wenig fortgeschritten"
+        ],
+        "handlungsempfehlungen": [
+          "Abschluss der Digitalisierung der Personalakte",
+          "Verbesserung von Employer Branding und Recruitingprozessen",
+          "Entwicklung und Umsetzung eines neuen Weiterbildungskonzepts"
+        ]
+      }
+    ],
+    "markttrends": [
+      {
+        "trend": "Protektionismus und Handelsrestriktionen",
+        "beschreibung": [
+          "Die zunehmende geopolitische Fragmentierung erschwert die Beschaffung von Batteriezellen oder Solarmodulen oder reduziert zumindest die Beschaffungssicherheit."
+        ],
+        "positive_effekte": [],
+        "negative_effekte": [
+          "Erschwerte Beschaffung und längere Lieferzeiten",
+          "Zunahme regulatorischer Komplexität im Einkauf"
+        ]
+      },
+      {
+        "trend": "Direktvertrieb asiatischer Hersteller nimmt zu",
+        "beschreibung": [
+          "Asiatische Anbieter umgehen klassische Handelsstrukturen und bieten ihre Produkte im Direktvertrieb an. So greifen die Hersteller Marktanteile der Großhändler ab."
+        ],
+        "positive_effekte": [],
+        "negative_effekte": [
+          "Marktanteilsverlust im klassischen Großhandel",
+          "Preisdruck durch Wettbewerbsverschärfung"
+        ]
+      },
+      {
+        "trend": "Neue regulatorische Anforderungen im Batteriehandel",
+        "beschreibung": [
+          "Importierte Batterien aus Nicht-EU-Ländern gelten ab 2026 als Inverkehrbringungen und sind für den digitalen Batteriepass verantwortlich."
+        ],
+        "positive_effekte": [
+          "Höhere Transparenz und Rückverfolgbarkeit",
+          "Förderung nachhaltiger Produktstandards"
+        ],
+        "negative_effekte": [
+          "Steigende Kosten für Compliance und Datendokumentation"
+        ]
+      },
+      {
+        "trend": "Komplettlösungen (Solar, Batterie, Klimatechnik)",
+        "beschreibung": [
+          "Kunden wünschen kombinierte Lösungen aus PV, Wallbox, Speicher und Klimasystemen. Steigende Temperaturen erhöhen den Bedarf an Kühltechnik und Wärmepumpen und eröffnen neue Absatzpotenziale."
+        ],
+        "positive_effekte": [
+          "Neue Absatzpotenziale durch Komplettlösungen",
+          "Stärkere Kundenbindung durch integrierte Produktlösungen",
+          "Höhere Margen durch Systemverkauf statt Einzelkomponenten"
+        ],
+        "negative_effekte": [
+          "Erhöhte Komplexität in Beratung, Vertrieb und Service"
+       ]
+      },
+      {
+        "trend": "Künstliche Intelligenz",
+        "beschreibung": [
+          "KI ermöglicht schnelle, hochwertige Beratung über digitale Kanäle und gleicht Personalmangel in der Kundenbetreuung und im Service aus. Weitere Anwendungen sind im Pricing denkbar."
+        ],
+        "positive_effekte": [
+          "Effizienzsteigerung in Kundenservice und Beratung",
+          "Adaptive Preisgestaltung ermöglicht Deckungsbeitragmaximierung"
+        ],
+        "negative_effekte": [
+          "Hoher Investitionsbedarf",
+          "Risiken durch unzureichende Datenqualität oder Bias in KI-Systemen"
+        ]
+      },
+      {
+        "trend": "Circularity/Reparierbarkeit",
+        "beschreibung": [
+          "Die EU-Batterieverordnung schreibt ab 2027 leicht austauschbare Batterien vor, was Refurbishment und Ersatzakkus stärkt."
+        ],
+        "positive_effekte": [
+          "Stärkung des Refurbishment- und Aftermarkets und damit verbundene Umsatzpotenziale für Akku Sys"
+        ],
+        "negative_effekte": [
+        ]
+      },
+      {
+        "trend": "Alternde Bevölkerung",
+        "beschreibung": [
+          "Die demografische Entwicklung sowie Trends zur E-Mobilität im Pflege- und Gesundheitsbereich schaffen eine wachsende Nachfrage nach Batterien für Elektromobile und medizinische Hilfsmittel."
+        ],
+        "positive_effekte": [
+          "Steigende Nachfrage im Pflege- und Gesundheitssektor"
+        ],
+        "negative_effekte": [
+        ]
+      }
+    ],
+    "SWOT": [
+      {
+        "stärken": [
+          "Ausgeprägtes technisches Produkt-Know-how mit Beratungskompetenz",
+          "Gute Vernetzung im nationalen sowie internationalen Händler- und Lieferantennetzwerk",
+          "Hohe Wertschätzung und Bindung bestehender Kunden durch schnelle Auftragsabwicklung und Servicequalität",
+          "Moderner Montage- und Logistikstandort in Süderholz ohne Investitionsstau und mit hohem Maß an technischer Ausstattung",
+          "Personal als Springer zwischen Montage und Logistik zur Abdeckung von Auslastungsspitzen"
+        ],
+        "schwächen": [
+          "Überdurchschnittlich hohe Personalaufwandsquote",
+          "Aktuell erhöhte Fluktuationsrate",
+          "Begrenzter Einsatz von BI zur Unternehmenssteuerung sowie KI in der Unternehmensplanung",
+          "Historisch Beschaffungsorganisation ohne klaren Einkaufsfokus"
+        ],
+        "chancen": [
+          "Etablierter Händler im deutschen und internationalen Aftermarket für Batterien, insbesondere in den Bereichen Reha, Sicherheit und Gabelstapler",
+          "Konsolidierung im Markt führt zu neuen Chancen durch Service- und Ersatzteilschwerpunkte",
+          "Eigene Produktserie im Bereich erneuerbare Energien mit höheren Margen",
+          "Strategische Partnerschaft mit Midea ermöglicht Mehrumsätze im Bereich erneuerbare Energien"
+        ],
+        "risiken": [
+          "Zunehmender Direktvertrieb asiatischer OEMs erhöht Wettbewerbsdruck",
+          "Geringe Kundentreue im Online-Segment erhöht Wechselrisiko",
+          "Eingeschränkte Verhandlungsmacht gegenüber Lieferanten kann Margen belasten"
+        ]
+      }
+    ],
+    "krisenstadium": [
+      {
+        "Stakeholderkrise": [
+          "Kein eindeutig definiertes und kommuniziertes Unternehmensleitbild",
+          "Verspätete Reaktion der Geschäftsführung auf rückläufige Entwicklung",
+          "Covenant-Brüche führen zu Misstrauen auf Finanziererseite",
+          "Fehlende Veränderungsbereitschaft in der Vergangenheit bezüglich Solar/Photovoltaik-Fokus"
+        ],
+        "Strategiekrise": [
+          "Fehleinschätzung der Wettbewerbssituation oder Marktentwicklung und verzögerte Reaktion",
+          "Unklare Markt- und Produktpositionierung",
+          "Keine ausformulierte Unternehmensstrategie",
+          "Unklare oder fehlende strategische Ausrichtung in Hinblick auf die angestrebte Wettbewerbsposition oder -vorteile."
+        ],
+        "Produkt- und Absatzkrise": [
+          "Anhaltender Umsatzrückgang bei Hauptprodukten (Solar und Photovoltaik)",
+          "Steigendes Working Capital und Zunahme der Kapitalbindung",
+          "Verschiebung von Umsätzen in den B2C-Bereich mit höherer Abhängigkeit von diesem Kanal"
+        ],
+        "Erfolgskrise": [
+          "Andauernder Renditeverfall je verkaufter Einheit",
+          "Nachfragerückgang im Bereich Photovoltaik.",
+          "Negatives Jahresergebnis in 2024 infolge nicht angepasster Kostenstruktur",
+          "Verstöße gegen Covenants nach Ausleihungen gegenüber verbundenen Unternehmen und Entnahmen von Gesellschaftern"
+        ],
+        "Liquiditätskrise": [
+          "Ausreichende Liquidität zur Deckung kurzfristiger Verbindlichkeiten vorhanden",
+          "13-Wochen-Planung zeigt kurzfristige Durchfinanzierung"
+        ],
+        "Insolvenzreife": [
+          "Zahlungsunfähigkeit im Sinne von § 17 InsO liegt nicht vor",
+          "Überschuldung (§ 19 InsO) aktuell nicht ersichtlich",
+          "Positive Fortbestehensprognose bei gesicherter Durchfinanzierung"
+        ]
+      }
+    ],
+
+    "maßnahmen": [
+        "Steigerung der Vertriebsaktivitäten und Festlegung messbarer interner Vorgaben für das Salesteam",
+        "Marketingautomatisierung",
+        "Potentiale von Cross- und Upselling evaluieren und automatische Produktvorschläge implementieren",
+        "Kundenindividuelle Preisgestaltung einführen",
+        "Optimierung der Schnittstelle zwischen ERP und CRM System",
+        "Vertriebskooperation mit Midea: Akku Sys wird exklusiver Vertriebspartner für Energiespeichersysteme von Midea",
+        "Eigenmarke weiter fokussieren und ausbauen",
+        "Prodoktbündelungen anbieten (Solar + Speicher + Wallbox)",
+        "Konditionen mit Lieferanten neu verhandeln",
+        "Mitarbeiter befähigen im Verhandlungsmanagement",
+        "Sonderverkauf von Langsam- und Nicht-Drehern",
+        "Personalreduktion im Einkauf durch Einführung einer neuen Software",
+        "Erhöhung der Versandkostenpauschale",
+        "Neuausschreibung von Logistikdienstleistungen",
+        "Freistellung von Mitarbeitern mit geringer Leistungs- und Veränderungsbereitschaft",
+        "Verkauf von Baumaschinen aus dem Eigenbestand"
+      ]
+    }
+},    
+    
+
+{
+  "unternehmen": "Vorlage",
+  "branche": ["1", "2"],
+  "typ": "IBR",
+  "jahr": 2025,
+  "details": {
+    "haupt- und unterstützungsprozesse": [
+    {
+      "abteilung": "Einkauf",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "Produktion",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "Logistik",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "Vertrieb",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "Finanzen",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "IT/Digitalisierung",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "Management",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    },
+    {
+      "abteilung": "Mitarbeiter",
+      "signale_pro": [
+        "",
+        ""
+      ],
+      "signale_kontra": [
+        "",
+        ""
+      ],
+      "handlungsempfehlungen": [
+        "",
+        ""
+      ]
+    }
+    ],
+    "markttrends": [
+      {
+        "trend": "",
+        "beschreibung": [
+        "",
+        ""
+        ],
+        "positive_effekte": [
+        "",
+        ""
+        ],
+        "negative_effekte": [
+        "",
+        ""
+        ]
+      },
+      {
+        "trend": "",
+        "beschreibung": [
+        "",
+        ""
+        ],
+        "positive_effekte": [
+        "",
+        ""
+        ],
+        "negative_effekte": [
+        "",
+        ""
+        ]
+      },
+      {
+        "trend": "",
+        "beschreibung": [
+        "",
+        ""
+        ],
+        "positive_effekte": [
+        "",
+        ""
+        ],
+        "negative_effekte": [
+        "",
+        ""
+        ]
+      },
+      {
+        "trend": "",
+        "beschreibung": [
+        "",
+        ""
+        ],
+        "positive_effekte": [
+        "",
+        ""
+        ],
+        "negative_effekte": [
+        "",
+        ""
+        ]
+      }
+    ],
+
+    "SWOT": [
+      {
+        "stärken": [
+        "",
+        ""
+        ],
+        "schwächen": [
+        "",
+        ""
+        ],
+        "chancen": [
+        "",
+        ""
+        ],
+        "risiken": [
+        "",
+        ""
+        ]
+      }
+    ],
+
+    "krisenstadium": [
+      {
+        "Stakeholderkrise": [],
+        "Strategiekrise": [],
+        "Produkt- und Absatzkrise": [],
+        "Erfolgskrise": [],
+        "Liquiditätskrise": [],
+        "Insolvenzreife": []
+      }
+    ],
+
+    "maßnahmen": [
+        "",
+        ""
+    ]
+    }
+}
+
+]
