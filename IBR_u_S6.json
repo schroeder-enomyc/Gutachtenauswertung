@@ -71,7 +71,7 @@
       ]
     },
     {
-      "abteilung": "IT",
+      "abteilung": "IT/Digitalisierung",
       "signale_pro": [
         "Ablösung der alten IT-Landschaft"
       ],
@@ -536,14 +536,14 @@
     ],
 
     "maßnahmen": [
-        "Steigerung der Vertriebsaktivitäten und Festlegung messbarer interner Vorgaben für das Salesteam",
+        "Steigerung der Vertriebsaktivitäten und Festlegung messbarer interner Vorgaben für das Sales-Team",
         "Marketingautomatisierung",
         "Potentiale von Cross- und Upselling evaluieren und automatische Produktvorschläge implementieren",
         "Kundenindividuelle Preisgestaltung einführen",
         "Optimierung der Schnittstelle zwischen ERP und CRM System",
         "Vertriebskooperation mit Midea: Akku Sys wird exklusiver Vertriebspartner für Energiespeichersysteme von Midea",
         "Eigenmarke weiter fokussieren und ausbauen",
-        "Prodoktbündelungen anbieten (Solar + Speicher + Wallbox)",
+        "Produktbündelungen anbieten (Solar + Speicher + Wallbox)",
         "Konditionen mit Lieferanten neu verhandeln",
         "Mitarbeiter befähigen im Verhandlungsmanagement",
         "Sonderverkauf von Langsam- und Nicht-Drehern",
@@ -556,6 +556,249 @@
     }
 },    
     
+{
+  "unternehmen": "KSG",
+  "branche": ["1"],
+  "typ": "IBR",
+  "jahr": 2025,
+  "details": {
+    "haupt- und unterstützungsprozesse": [
+      {
+        "abteilung": "Einkauf",
+        "signale_pro": [
+          "Leistungsstarke Einkaufs- und Beschaffungsabteilung.",
+          "Operativer EK für Gars, strategischer EK Basismaterial für die Gruppe.",
+          "Aktives und strukturiertes Bestandsmanagement."
+        ],
+        "signale_kontra": [
+          "Keine Bestandspflege für Chemie in Infor, daher Information für Nachbestellungen telefonisch oder per Mail.",
+          "Tagesgeschäft belastet Vertiefung des Lieferantenmanagements."
+        ],
+        "handlungsempfehlungen": [
+          "Prüfung möglicher Intercompany-Nutzungen von Ersatzteilen zur Bedarfsbündelung und Bestandskontrolle."
+        ]
+      },
+      {
+        "abteilung": "Vertrieb",
+        "signale_pro": [
+          "Einleitung umfangreicher Reorganisationsmaßnahmen.",
+          "Weiterentwicklung der Vertriebssteuerung und -kontrolle."
+        ],
+        "signale_kontra": [
+          "Matrixorganisation: Erfolgsvoraussetzung nicht ausreichend erfüllt.",
+          "Geringes Wir-Gefühl und Integration Gars vs. Gornsdorf.",
+          "Risiko der Überlastung der Vertriebsführung durch Vielzahl und Komplexität der Aufgaben."
+        ],
+        "handlungsempfehlungen": [
+          "Klärung der zukünftigen Rolle und Ausrichtung des Standorts Gars.",
+          "Forcierung des Maßnahmenplans zur kurzfristigen Umsatzstabilisierung in Gars.",
+          "Konsequente Fortführung der Verbesserung der Sales Excellence."
+        ]
+      },
+      {
+        "abteilung": "Produktion",
+        "signale_pro": [
+          "Optimierter Warenfluss über den Fertigungsprozess.",
+          "State-of-the-Art-Anlagen wie z. B. Chemisch-Nickel-Gold vorhanden."
+        ],
+        "signale_kontra": [
+          "Anlagen mit stark unterschiedlichem Alter.",
+          "Defektbezogene Anlagenausfälle können hohen Investitionsbedarf verursachen.",
+          "Optimierungspotenzial bei KPIs, v. a. im Bereich Störungen und Verzögerungen."
+        ],
+        "handlungsempfehlungen": [
+          "Konsequente Fortführung der Anlagenwartung, um Ausfälle und Investitionen zu vermeiden.",
+          "Umfassende Störungsauswertung, um Maßnahmen zu entwickeln und Probleme vorzubeugen."
+        ]
+      },
+      {
+        "abteilung": "Logistik",
+        "signale_pro": [
+          "Kurze Wege im Gebäude.",
+          "Lager an Materialanforderungen angepasst.",
+          "Erste Optimierungsmaßnahmen bei Verpackungsmaterial umgesetzt."
+        ],
+        "signale_kontra": [
+          "Keine durchgängige Anlagenverkettung.",
+          "„Schnellboot“-Ansatz für EX/MEX-Aufträge nicht wie geplant erfüllt.",
+          "Planungskomplexität EX/MEX-Aufträge."
+        ],
+        "handlungsempfehlungen": [
+          "Klare Definition von Prozessen zur Reduzierung der Planungskomplexität.",
+          "Verbesserung der Liefertreue bei EX/MEX-Aufträgen."
+        ]
+      },
+      {
+        "abteilung": "Finanzen",
+        "signale_pro": [
+          "Ausgeprägte und stringent verfolgte Prozesse in FiBu und Controlling.",
+          "Aussagekräftige und schnell verfügbare finanzwirtschaftliche MIS.",
+          "Aussagekräftige Kostenrechnung."
+        ],
+        "signale_kontra": [
+          "Planungsprozess beschränkt auf Ergebnisplanung.",
+          "Potenzial in der Liquiditätssteuerung."
+        ],
+        "handlungsempfehlungen": [
+          "Bedarfsgerechte Anpassung der Instrumente zur Liquiditätssteuerung.",
+          "Erweiterung Planungs- und Budgetierungsprozess."
+        ]
+      },
+      {
+        "abteilung": "IT/Digitalisierung",
+        "signale_pro": [],
+        "signale_kontra": [],
+        "handlungsempfehlungen": []
+      },
+      {
+        "abteilung": "Management",
+        "signale_pro": [
+          "Hohes technologisches Know-how im Management vorhanden.",
+          "Etablierte und umsetzungsstarke zweite Führungsebene."
+        ],
+        "signale_kontra": [
+          "Unklare Positionierung in der Unternehmensgruppe.",
+          "Werks- und Produktionsleitung wird in Personalunion verantwortet, ab 01.04.2025 Übernahme geplant."
+        ],
+        "handlungsempfehlungen": [
+          "Definition der strategischen Zielrichtung der KSG Austria auf Basis einer Optionsanalyse gemeinsam mit dem Gesellschafter."
+        ]
+      },
+      {
+        "abteilung": "Mitarbeiter",
+        "signale_pro": [
+          "Kompetentes Führungsteam mit qualifizierten Angestellten.",
+          "Mitarbeiter tragen zu großem Teil freiwillig zur Stabilisierung des Unternehmens bei („freiwillige Teilzeit“)."
+        ],
+        "signale_kontra": [
+          "Überkapazitäten in einzelnen Bereichen der Verwaltung.",
+          "Kritische Größe der Personalkapazität in der Fertigung zur Gewährleistung der Betriebsfähigkeit erreicht."
+        ],
+        "handlungsempfehlungen": [
+          "Steigerung der Produktivität und Effizienz in der Fertigung, um mit reduzierter Anzahl Mitarbeiter betriebsfähig zu sein.",
+          "Anpassung der Verwaltungsstruktur an die Rahmenbedingungen."
+        ]
+      }
+    ],
+    "markttrends": [
+      {
+        "trend": "Technisch anspruchsvolle Lösungen",
+        "beschreibung": [
+          "Steigende Komplexität bei Elektronikbauteilen durch Trends wie Miniaturisierung, Systemintegration und Signalintegrität.",
+          "Vermehrter Einsatz von HDI (High-Density Interconnect) und flexiblen Leiterplatten.",
+          "Fokus auf High-Mix-Low-Volume-Fertigung für Prototypen und spezialisierte Anwendungen."
+        ],
+        "positive_effekte": [
+          "Abgrenzung vom Wettbewerb durch High-Mix-Low-Volume-Nische.",
+          "Kundenakquise durch Musterfertigung mit Chance auf anschließende Serienfertigung."
+        ],
+        "negative_effekte": [
+          "Abwanderung der Kunden bei Standardprodukten.",
+          "High-Mix-Low-Volume sorgt für hohe indirekte Kosten (z. B. Qualität)."
+        ]
+      },
+      {
+        "trend": "Nachhaltiger Produktlebenszyklus",
+        "beschreibung": [
+          "Anforderungen an umweltfreundliche Materialien, die frei von toxischen Substanzen (z. B. Blei, Halogene) sind.",
+          "Wachsende Bedeutung der Kreislaufwirtschaft und des Recyclings von Leiterplatten aufgrund strengerer Umweltregulierungen, v. a. in Europa."
+        ],
+        "positive_effekte": [
+          "Umweltfreundliche Produkte können Eintritt in regulierte Branchen (z. B. Medizintechnik) bieten."
+        ],
+        "negative_effekte": [
+          "Regulatorische Beschränkungen durch Umweltauflagen, welche im Ausland so nicht vorherrschen."
+        ]
+      },
+      {
+        "trend": "Globale geopolitische und ökonomische Instabilitäten",
+        "beschreibung": [
+          "Abhängigkeit von Rohstoffen (z. B. Kupfer, Gold) und Zulieferern in geopolitisch instabilen Regionen.",
+          "Zunehmender Druck auf die Lieferketten durch Handelsbeschränkungen und Naturkatastrophen.",
+          "Volatilität globaler Lieferketten, Handelskriege, Gesundheitskrisen und Naturkatastrophen unterstreichen Bedeutung regionaler Lieferketten."
+        ],
+        "positive_effekte": [
+          "Nähe zu europäischen Märkten ermöglicht kürzere Lieferzeiten und gewährleistet Versorgungssicherheit für die Kunden."
+        ],
+        "negative_effekte": [
+          "Materialabhängigkeiten sowie Volatilitäten bei Rohstoffen vom asiatischen Markt."
+        ]
+      },
+      {
+        "trend": "Wettbewerbsdichte",
+        "beschreibung": [
+          "Asiatische Hersteller dominieren die Massenproduktion elektronischer Komponenten.",
+          "Die europäischen Marktanteile schrumpfen und erfordern Spezialisierung oder Outsourcing.",
+          "Asiatische Hersteller expandieren nach Osteuropa, um den europäischen Markt zu bedienen."
+        ],
+        "positive_effekte": [
+         
+        ],
+        "negative_effekte": [
+          "Vorteile des lokalen Sourcing wiegen Preisvorteil des Wettbewerbs nur teilweise auf.",
+          "Hoher Druck durch asiatische Anbieter auf Standardprodukte."
+        ]
+      }
+    ],
+    "SWOT": [
+      {
+        "stärken": [
+          "Langjährige Kundenbeziehungen zu zentralen Kunden (OEM, EMS) basierend auf Qualität und Zuverlässigkeit.",
+          "Hohe technische Kompetenz.",
+          "Guter Kundensupport und hohe Flexibilität bei der Umsetzung von Kundenanforderungen.",
+          "Fertigung komplexer Muster mit Stückzahl 1 auf dem Maschinenpark der Serienfertigung möglich.",
+          "Spezialisierte Fachkräfte mit langjähriger Erfahrung.",
+          "Hohe Marktkenntnis durch zum Teil enge Kundenbeziehungen und langjährige Zusammenarbeit mit Schlüsselkunden."
+        ],
+        "schwächen": [
+          "Herstellungskosten/Materialkosten mit Fokus auf hohe Variabilität bei kleiner Stückzahl.",
+          "Kapazitätsanpassungen nur begrenzt möglich aufgrund hohem Operating Leverage (insbesondere Bereich Chemie).",
+          "Fehlende lokale Lieferketten für spezifische Materialien.",
+          "Umsatzrückgang erfordert Anpassungen im Bereich der kritischen Mindestgröße der Organisation.",
+          "Teilweise Abhängigkeit von der deutschen Muttergesellschaft, insbesondere in Bezug auf den Vertrieb.",
+          "Keine eindeutige strategische Positionierung des Standortes Gars in der KSG-Gruppe. Stand-alone-Fähigkeit kritisch zu betrachten.",
+          "Integration im Vertrieb nicht umgesetzt – kein gemeinsames Team mit einer gemeinsamen Zielsetzung."
+        ],
+        "chancen": [
+          "Trend zur Digitalisierung und mehr Umweltfreundlichkeit in Europa schafft neue Vertriebsansätze.",
+          "Nischendasein durch Innovation und Produktspezialisierung.",
+          "Aufgrund politischer Unsicherheiten könnte der Trend zu „Local Sourcing“ wieder zunehmen (insbesondere im Bereich Defense).",
+          "Sichtbarkeit der KSG im europäischen Marktumfeld.",
+          "Chancen durch Konsolidierungen im Marktumfeld.",
+          "Synergieeffekte beispielsweise in Zentraleinheiten durch die Zugehörigkeit zur deutschen KSG GmbH."
+        ],
+        "risiken": [
+          "Steigende Lohnkosten und personalintensive Prozesse bei zunehmendem Preiskampf.",
+          "Fachkräftemangel.",
+          "Unterbrechungen in der Lieferkette und eingeschränkte lokale Lieferanten.",
+          "Sinkender Kundenkreis an Elektronikproduzenten in Europa.",
+          "Politische Auflagen und Restriktionen wie Zölle für Basismaterial.",
+          "Steigende Energiekosten."
+        ]
+      }
+    ],
+    "krisenstadium": [
+      {
+        "Stakeholderkrise": [],
+        "Strategiekrise": [],
+        "Produkt- und Absatzkrise": [],
+        "Erfolgskrise": [],
+        "Liquiditätskrise": [],
+        "Insolvenzreife": []
+      }
+    ],
+    "maßnahmen": [
+      "Digitalisierung in der Produktion treiben",
+      "Fertigungsprozesse angleichen und standardisieren",
+      "Verpackungsmaterial optimieren",
+      "Liefertreue verbessern",
+      "Reinraumfilteranlage modernisieren",
+      "Personalabbau"
+    ]
+  }
+},
+
+
 
 {
   "unternehmen": "Vorlage",
