@@ -798,7 +798,240 @@
   }
 },
 
-
+{
+  "unternehmen": "Nobby",
+  "branche": ["6","7"],
+  "typ": "IBR",
+  "jahr": 2025,
+  "details": {
+    "haupt- und unterstützungsprozesse": [
+      {
+        "abteilung": "Einkauf",
+        "signale_pro": [
+          "Hohe Einkaufskompetenz durch langjährige Erfahrung und intensive Branchenvernetzung.",
+          "Langjährige und enge Beziehungen zu Lieferanten in Europa und Asien.",
+          "Schlanke Einkaufsorganisation mit Sitz in Bocholt.",
+          "Wettbewerbsfähige Einkaufspreise."
+        ],
+        "signale_kontra": [
+          "Branchentypische Risiken infolge des Beschaffungsschwerpunkts in Asien.",
+          "Verlängerte Beschaffungszeiträume durch geänderte Seerouten (Südafrika)."
+        ],
+        "handlungsempfehlungen": [
+          "Kein spezifischer Handlungsbedarf."
+        ]
+      },
+      {
+        "abteilung": "Vertrieb",
+        "signale_pro": [
+          "Eigener Außendienst mit acht festangestellten Mitarbeitern in DE sowie jeweils einem in FR und AT.",
+          "Key Account Team zur Betreuung der Einkaufszentralen und großen Einzelkunden.",
+          "Selektive Belieferung neuer Webshops zur Vermeidung von Preiskämpfen (kein Drop Shipping).",
+          "Hohe Warenpräsenz und Distributionsquote im Fachhandel."
+        ],
+        "signale_kontra": [
+          "Globus und Amazon: Starke Lieferantenstellung mit gleichzeitig überdurchschnittlicher Umsatzabhängigkeit.",
+          "Potenzial für Neulistungen und Distributionsausweitung außerhalb Fachhandels noch nicht ausgeschöpft."
+        ],
+        "handlungsempfehlungen": [
+          "Ausbau der Stellung als Single Source Supplier für Handelskunden.",
+          "Schulung von Listungs- und Distributionsprozessen."
+        ]
+      },
+      {
+        "abteilung": "Logistik",
+        "signale_pro": [
+          "Der AutoStore ist für die Lagerung der Artikel äußerst effizient, auf dem neuesten Stand der Lagerhaltung.",
+          "Kurze Kommunikationswege zwischen Geschäftsleitung und Lagermitarbeitern."
+        ],
+        "signale_kontra": [
+          "Die internen Strukturen, Vorgaben und Abläufe sollten noch präziser festgelegt werden (derzeit in Umsetzung/Dokumentation).",
+          "AutoStore muss optimal genutzt werden (in Planung)."
+        ],
+        "handlungsempfehlungen": [
+          "Prüfung bezüglich Übertragung von (Teil-) Aufgaben mittels Ausschreibung an externe Spezialisten."
+        ]
+      },
+      {
+        "abteilung": "Mitarbeiter",
+        "signale_pro": [
+          "Hohe Betriebszugehörigkeit der Mitarbeitenden und Identifikation mit dem Unternehmen.",
+          "Diversifizierte Altersstruktur.",
+          "Umfangreiche fachliche Expertise."
+        ],
+        "signale_kontra": [
+          "Tracking der Arbeitsplätze (insbesondere Logistik) ausbaufähig (BI-Tool zur Gegensteuerung in Umsetzung)."
+        ],
+        "handlungsempfehlungen": [
+          "Analyse der Arbeitsprozesse und Optimierung der Personaleinsatzplanung."
+        ]
+      },
+      {
+        "abteilung": "Finanzen",
+        "signale_pro": [
+          "Verlässliche Buchhaltung mit hohem Wert auf periodengerechte (auch unterjährige) Erfolgsermittlung.",
+          "IT-Landschaft ermöglicht entscheidungsstützende Ad-hoc-Analysen."
+        ],
+        "signale_kontra": [
+          "(Zu) hohe Einbindung auf Geschäftsführungs-Ebene. Bei Entlastung mehr Fokus auf strategische Themen möglich."
+        ],
+        "handlungsempfehlungen": [
+          "Ggf. (bei Finanziererwunsch) Definition maßgeschneidertes Reporting.",
+          "Kein spezifischer Handlungsbedarf."
+        ]
+      },
+      {
+        "abteilung": "IT/Digitalisierung",
+        "signale_pro": [
+          "Hoher Stand an Sicherheitsmaßnahmen.",
+          "Effizienter Datenaustausch und effektives Datenmanagement insbesondere Logistik und Vertrieb."
+        ],
+        "signale_kontra": [
+          "Fehlende Integration von digitalen Tools (Wissensmanagement- und Kollaborationstools).",
+          "Die Rechnungsstellung wird erst ab 2025 vollständig digital umgesetzt."
+        ],
+        "handlungsempfehlungen": [
+          "Kein spezifischer Handlungsbedarf."
+        ]
+      },
+      {
+        "abteilung": "Management",
+        "signale_pro": [
+          "Hohe Fach- und Branchenkompetenz auf Ebene der Geschäftsführung sowie der Leitungsfunktionen.",
+          "Junges Geschäftsführungsteam.",
+          "Kultivierung freundschaftlicher aber wettbewerbsorientierter Beziehung zum Hauptkonkurrenten Trixie.",
+          "Gute Datenlagen (u. a. Power BI)."
+        ],
+        "signale_kontra": [
+          "Temporäre Managementengpässe durch die umzugsbedingte Erschwernisse und den zeitweisen gesundheitsbedingten Ausfall des Gründungsgeschäftsführers."
+        ],
+        "handlungsempfehlungen": [
+          "Kein dringender Handlungsbedarf.",
+          "Ggf. zukunftsorientierte Überprüfung der Aufgaben und Leitungsumfang auf Geschäftsführungsebene."
+        ]
+      }
+    ],
+    "markttrends": [
+      {
+        "trend": "Technologie im Tierzubehör",
+        "beschreibung": [
+          "Technologie im Tierzubehör umfasst smarte Lösungen, die das Wohlbefinden, die Gesundheit und Sicherheit von Haustieren fördern.",
+          "Beispiele für diesen Trend sind GPS-Tracker, Überwachungskameras mit Leckerli-Ausgabe, automatische Futterspender, interaktive Spielzeuge und Health-Monitore."
+        ],
+        "positive_effekte": [
+          "Trotz der breiten Produktpalette bietet Nobby noch keine technologisch fortgeschrittenen Artikel an, was eine Chance für die Erschließung eines neuen Absatzmarktes darstellt."
+        ],
+        "negative_effekte": [
+          "Nobby hat derzeit begrenzte Erfahrung und keine etablierten Partner in diesem Bereich. Geeignete Partner müssen erst identifiziert und gewonnen werden."
+        ]
+      },
+      {
+        "trend": "Premium Produkte",
+        "beschreibung": [
+          "Verbraucher investieren mehr in hochwertiges Tierfutter (getreidefrei, ohne Zusatzstoffe, personalisiert) und spezialisierte Ausstattung.",
+          "Trends sind unter anderem nachhaltige Verpackungen, Wellness- und Pflegeprodukte sowie funktionale Premium-Leckerlis, z. B. für Zahnpflege."
+        ],
+        "positive_effekte": [
+          "Nobby bietet bereits ausgewählte Premium-Produkte an, hat jedoch die Möglichkeit, das Sortiment in diesem Bereich weiter auszubauen.",
+          "Ein gezielter Einstieg und Ausbau des Premium-Segments eröffnet Potenziale zur Gewinnung neuer Kunden und kann zu einem gesteigerten Absatz führen."
+        ],
+        "negative_effekte": []
+      },
+      {
+        "trend": "Nachhaltigkeit",
+        "beschreibung": [
+          "Nachhaltigkeit in der Tiergesundheit zeigt sich im Trend zu gesunder Ernährung und Wohlbefinden durch spezielle Futtermittel für Allergien, allergenfreie Nahrung und Pflegeprodukte.",
+          "Steigende Nachfrage nach nachhaltigen Futter- und Snacks: reduzierter Fleischanteil, mehr Bio, nachhaltiger Fischfang und regionale Zutaten."
+        ],
+        "positive_effekte": [
+          "Nobby bietet Produkte zur Förderung der Tiergesundheit, z. B. Nahrungsergänzungsmittel.",
+          "Nobby ist sich des Trends bewusst, hat jedoch festgestellt, dass Käufer häufig von nachhaltigen Produkten absehen."
+        ],
+        "negative_effekte": [
+          "Produkte werden weltweit hergestellt und nach Deutschland verschifft."
+        ]
+      },
+      {
+        "trend": "Pflegeprodukte und Wellness",
+        "beschreibung": [
+          "Es besteht eine steigende Nachfrage nach natürlichen Wellness- und Pflegeprodukten, die Wohlbefinden und die Gesundheit von Haustieren fördern.",
+          "Es gibt natürliche Pflegeprodukte für schonende Hautpflege, Entspannungsprodukte zur Stressminderung, Nahrungsergänzung für Haut und Gelenke sowie Zahnpflegeprodukte gegen Zahnstein und Mundgeruch."
+        ],
+        "positive_effekte": [
+          "Nobby bietet ein breites Portfolio an Wellness- und Pflegeprodukten für verschiedene Heimtiere.",
+          "Nobby könnte gezielt neue Wellness-Produkte entwickeln oder anbieten, um auf die wachsende Nachfrage nach tierfreundlichen Wellness-Lösungen einzugehen."
+        ],
+        "negative_effekte": []
+      }
+    ],
+    "SWOT": [
+      {
+        "stärken": [
+          "Vollsortimenter mit Abdeckung aller relevanter Artikelgruppen für den Heimtierfachhandel.",
+          "Hohe Distribution im Fachhandel als Spiegelbild der Leistungsfähigkeit.",
+          "Herstellerübergreifende Sortimentskompetenz (Category Captain bei Globus).",
+          "Markenbekanntheit und Generierung von attraktiven Spannen für den Fachhandel.",
+          "Zukunftsorientierte Investition in einen modernen Unternehmensstandort – Senkung Personalbedarf, Kosten und Auslieferzeiten.",
+          "Eigenes Umbau-Team für Aufbau aufmerksamkeitsstarker Promotion- und Zweitplatzierungen – Umsatzsteigerung gesamte Heimtierabteilung nach Umbau um bis zu 30 % (z. B. Profi-Baumarkt Essen Hellweg)."
+        ],
+        "schwächen": [
+          "Die Logistik weist eine begrenzte Flexibilität auf, um Marktschwankungen effektiv auszugleichen.",
+          "Eine unverändert fortlaufende Überprüfung der Logistikprozesse ist empfehlenswert, um weiterhin Schwachstellen zu identifizieren und zu beheben."
+        ],
+        "chancen": [
+          "Innerhalb von Europa ist Deutschland das zweitstärkste Umsatzland für Tierzubehör.",
+          "Die gegenläufige Entwicklung von Haustierbeständen und Umsätzen zeigt, dass Menschen heute deutlich mehr für ihre Haustiere ausgeben als in der Vergangenheit.",
+          "Trends wie Technologie im Tierzubehör und Premium-Produkte ermöglichen neue Chancen für Nobby.",
+          "Stetig steigender Markt; solange der Markt sich positiv entwickelt, wächst Nobby weiterhin auch."
+        ],
+        "risiken": [
+          "Hohe Investitionen in den Neubau und deren Fremdfinanzierung führen zukünftig zu hohem Kapitaldienst, der wesentliche Teile des operativen Cashflows aufzehrt.",
+          "Analog führen hohe Abschreibungen und Zinsdienste zu zwar positiven – jedoch geringen – Ergebnissen und Renditen.",
+          "Insgesamt könnte die Kapitaldienst- bzw. -marktfähigkeit aus externer Finanzierungssicht kritisch gesehen werden, was die Abhängigkeit vom bestehenden Finanziererkreis erhöht."
+        ]
+      }
+    ],
+    "krisenstadium": [
+      {
+        "Stakeholderkrise": [
+          "Generationenwechsel erfolgreich gestaltet.",
+          "Neues Geschäftsführer-Duo arbeitet effizient miteinander.",
+          "Teils heterogene Interessen und Einschätzungen zum Unternehmen innerhalb des Finanziererkreises erschweren schnelle Finanzierungslösungen."
+        ],
+        "Strategiekrise": [
+          "Gute Kunden- und Lieferantenorientierung.",
+          "Wettbewerbssituation und Marktentwicklung werden richtig eingeschätzt.",
+          "Zu kleinteiliges Sortiment (Kapitalbindung) wird reduziert/optimiert."
+        ],
+        "Produkt- und Absatzkrise": [
+          "Störungen der Lieferketten einerseits als auch andererseits durch die Verlagerung des Unternehmensstandorts entstandene Restriktionen führten zu einer geringen Lieferfähigkeit und damit gesunkenem Absatz."
+        ],
+        "Erfolgskrise": [
+          "Infolge der Absatzkrise zeigen die Jahre 2023 und 2024 unter Herausrechnung außerordentlicher Erträge aus Anlagenabgängen deutliche negative Ergebnisse."
+        ],
+        "Liquiditätskrise": [
+          "Investitionen in den neuen Unternehmensstandort liegen rund 1,0 Mio. EUR höher als ursprünglich kalkuliert.",
+          "Eine Nachfinanzierung konnte nicht rechtzeitig abgeschlossen werden, wodurch es in 2024 zu einem Aufbau fälliger Verbindlichkeiten kam.",
+          "Nach grundsätzlicher Einigung auf eine Nachfinanzierung und Gewährung von Gesellschafterdarlehen hat sich die Liquiditätskrise entspannt."
+        ],
+        "Insolvenzreife": [
+          "Nach grundsätzlicher Einigung auf eine Nachfinanzierung und Gewährung von Gesellschafterdarlehen hat sich die Liquiditätskrise entspannt; weder eine bestehende noch eine drohende Zahlungsunfähigkeit ist damit ersichtlich.",
+          "Bei bestehenden Prämissen ist Nobby im Planungszeitraum durchfinanziert und eine positive Fortbestehensprognose kann gestellt werden."
+        ]
+      }
+    ],
+    "maßnahmen": [
+      "Kontinuierliche Steigerung der Bekanntheit von Nobby durch den weiteren Ausbau der Social-Media-Aktivitäten",
+      "Überprüfung und Bereinigung des Sortiments um ca. 1.000 Artikel",
+      "Aktive Forcierung der kreativen Warengruppen- und Markenpräsentation am Point of Sale (Erstellung durch eigene Schreinerei)",
+      "Sukzessive Erschließung weiterer Vertriebskanäle wie z.B. Baumärkte, Gartencenter und Möbelhäuser",
+      "Regelmäßige Durchführung einer Kosten-Nutzenbewertung des gedruckten Katalogs – perspektivische Ablösung durch eine digitale Version.",
+      "Strategische Bewertung des Ausbaus des Verkaufs an Endkunden (B2C) über einen eigenen Online-Shop",
+      "Arbeitsablaufoptimierung im Lager und Steuerung der "
+    ]
+  }
+}
+,
 
 {
   "unternehmen": "Vorlage",
